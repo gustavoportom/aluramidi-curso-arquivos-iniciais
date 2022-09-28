@@ -1,4 +1,4 @@
-# aluramidi - Drum with different audios when a button is clicked
+# aluramidi - Drum that plays different audio files for every clicked button
 Web Javascript practice.
 
 Learned to:
